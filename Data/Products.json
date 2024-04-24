@@ -1,0 +1,284 @@
+
+[
+
+    {
+     
+        "name": "Apple IMac",
+        "Price": 130000,
+        "Description":"With its expansive 60.96 cm (24″) Retina display",
+        "Ratings":5,
+
+        "images": [
+
+           {
+
+              "image":"/images/products/9.jpg"
+
+           },
+
+           {
+
+            "image":"/images/products/10.jpg"
+
+         }
+
+
+        ],
+
+        "Catagory":"Electronic",
+        "seller":"Amazon",
+        "stock": 5,
+        "NumbersOfReviews": 15,
+        "reviews": []
+
+    },
+    {
+     
+      "name": "Infinix Note 40 Pro",
+      "Price": 120000,
+      "Description":"Infinix Note 40 Pro is a powerful With Adaptor",
+      "Ratings":5,
+
+      "images": [
+
+         {
+
+            "image":"/images/products/laptop-g.webp"
+
+         },
+
+         {
+
+            "image":"/images/products/11.avif"
+
+         }
+
+      ],
+
+      "Catagory":"Laptop",
+      "seller":"Flipcart",
+      "stock": 5,
+      "NumbersOfReviews": 15,
+      "reviews": []
+
+  },
+    
+    {
+     
+        "name": "Smart watch",
+        "Price": 678886,
+        "Description":"Apple smart watch Pro 5G is a powerful With Adaptor",
+        "Ratings":4.5,
+
+        "images": [
+
+           {
+              "image":"/images/products/2.jpg"
+
+           }
+
+        ],
+
+        "Catagory":"Electronic",
+        "seller":"Amazon",
+        "stock": 5,
+        "NumbersOfReviews": 15,
+        "reviews": []
+
+    },
+
+    {
+     
+      "name": "Smart watch",
+      "Price": 678886,
+      "Description":"Apple smart watch Pro 5G is a powerful With Adaptor",
+      "Ratings":4.5,
+
+      "images": [
+
+         {
+            "image":"/images/products/2.jpg"
+
+         }
+
+      ],
+
+      "Catagory":"Electronic",
+      "seller":"Amazon",
+      "stock": 5,
+      "NumbersOfReviews": 15,
+      "reviews": []
+
+  },
+
+
+    {
+     
+        "name": "Dell",
+        "Price":676767,
+        "Description":"Dell F21s Pro 5G is a powerful With Adaptor",
+        "Ratings":2.5,
+
+        "images": [
+
+           {
+              "image":"/images/products/3.jpg"
+
+           }
+
+        ],
+
+        "Catagory":"Laptop",
+        "seller":"Amazon",
+        "stock": 5,
+        "NumbersOfReviews": 15,
+        "reviews": []
+
+    },
+    {
+     
+      "name": "Dell Pro 56",
+      "Price":76559,
+      "Description":"Dell Pro 5G is a powerful With Adaptor",
+      "Ratings":2.5,
+
+      "images": [
+
+         {
+            "image":"/images/products/6.jpg"
+
+         }
+
+      ],
+
+      "Catagory":"Laptop",
+      "seller":"Amazon",
+      "stock": 5,
+      "NumbersOfReviews": 15,
+      "reviews": []
+
+  },
+
+    {
+     
+        "name": "Head phone",
+        "Price": 576577,
+        "Description":"Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears. They are electroacoustic transducers, which convert an electrical signal to a corresponding sound.",
+        "Ratings":5,
+
+        "images": [
+
+           {
+              "image":"/images/products/4.jpg"
+
+           }
+
+        ],
+
+        "Catagory":"Electronic",
+        "seller":"Amazon",
+        "stock": 5,
+        "NumbersOfReviews": 15,
+        "reviews": []
+
+    },
+
+    {
+     
+      "name": "Iqooz3",
+      "Price": 33545,
+      "Description":"24354",
+      "Ratings":4.5,
+
+      "images": [
+
+         {
+            "image":"/images/products/7.jpg"
+
+         }
+
+      ],
+
+      "Catagory":"Mobile Phone",
+      "seller":"Amazon",
+      "stock": 5,
+      "NumbersOfReviews": 15,
+      "reviews": []
+
+  },
+  {
+     
+   "name": "Bata ",
+   "Price": 2300,
+   "Description":"Bata - India's favorite footwear brand",
+   "Ratings":4.5,
+
+   "images": [
+
+      {
+         "image":"/images/products/5.jpg"
+
+      }
+
+   ],
+
+   "Catagory":"Home",
+   "seller":"Amazon",
+   "stock": 5,
+   "NumbersOfReviews": 15,
+   "reviews": []
+
+},
+
+{
+     
+   "name": "Oppo",
+   "Price": 2000,
+   "Description":" Chinese consumer electronics manufacturer headquartered in Dongguan, Guangdong",
+   "Ratings":4.5,
+
+   "images": [
+
+      {
+         "image":"/images/products/1.jpg"
+
+      }
+
+   ],
+
+   "Catagory":"Mobile Phone",
+   "seller":"Amazon",
+   "stock": 5,
+   "NumbersOfReviews": 15,
+   "reviews": []
+
+},
+{
+     
+   "name": "Power Bank",
+   "Price":9000,
+   "Description":" A Power Bank is a portable charger designed to recharge your electronic devices when you're on the move",
+   "Ratings":3.5,
+
+   "images": [
+
+      {
+         "image":"/images/products/8.jpg"
+
+      }
+
+   ],
+
+   "Catagory":"Electronic",
+   "seller":"Amazon",
+   "stock": 5,
+   "NumbersOfReviews": 15,
+   "reviews": []
+
+}
+
+
+
+
+   
+]
