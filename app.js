@@ -81,14 +81,6 @@ app.use('/api/v1' ,Order)
 
 //====>
 
-if (process.env.NODE_ENV === "production") {
-  app.use(express.static(path.join(__dirname, '../frontend/e-commerce/dist')));
-
-  app.get('*', (req, res) => {
-      res.sendFile(path.resolve(__dirname, '../frontend/e-commerce/dist/index.html'));
-  });
-}
-
 
 app.use(errorMiddleware)  // Create Middleware for whole website Error Handling
 
